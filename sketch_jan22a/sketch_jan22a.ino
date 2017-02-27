@@ -32,7 +32,7 @@ void setup() {
   pinMode(red, OUTPUT);
   pinMode(yellow, OUTPUT);
   pinMode(green, OUTPUT);
-    pinMode(laser, OUTPUT);
+  pinMode(laser, OUTPUT);
 
 
 }
